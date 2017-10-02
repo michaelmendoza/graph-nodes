@@ -140,7 +140,7 @@ class Node {
 		var grab = grip.append("rect")
 			.attr("x", 0).attr("y", 0)	    
 			.attr("width", 14).attr("height", 14)
-			.attr("fill", '#222222')
+			.attr("fill", '#111111')
 			.attr("opacity", 0)
 			.attr("class", "grab")
 
